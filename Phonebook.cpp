@@ -2,11 +2,11 @@
 #include <stdlib.h>
 #include <string >
 
-//header files
+//header files//
 
 using namespace std;
 
-//creating linked list
+//creating linked list//
 struct node
 {
    string name , number;

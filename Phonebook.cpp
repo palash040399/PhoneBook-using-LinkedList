@@ -1,12 +1,12 @@
 #include<iostream>
 #include <stdlib.h>
-#include <string >
+#include <string>
 
 //header files//
 
 using namespace std;
 
-//creating linked list//
+//creating a node of the linked list//
 struct node
 {
    string name , number;
